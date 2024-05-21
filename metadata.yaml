@@ -1,0 +1,27 @@
+_repo: The-english-moths-and-butterflies-b-Together-with-the-plants-flowers-and-fruits-whereon-they-__73622
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkes, Benjamin
+    gutenberg_agent_id: '57144'
+    url: http://www.gutenberg.org/2009/agents/57144
+description: ''
+gutenberg_issued: '2024-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73622'
+language: en
+pgterms:marc905: 20070209042223wilkes
+pgterms:marc906: '1749'
+pgterms:marc907: GB
+production_note: Frank van Drogen, A Marshall and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aLondon :$bWilkes, $c1749.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The english moths and butterflies : $b Together with the plants, flowers,
+  and fruits whereon they feed, and are usually found.'
+url: http://www.gutenberg.org/ebooks/73622
