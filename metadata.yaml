@@ -1,11 +1,16 @@
 _repo: The-english-moths-and-butterflies-b-Together-with-the-plants-flowers-and-fruits-whereon-they-__73622
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73622-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilkes, Benjamin
     gutenberg_agent_id: '57144'
     url: http://www.gutenberg.org/2009/agents/57144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73622#The-english-moths-and-butterflies-b-Together-with-the-plants-flowers-and-fruits-whereon-they-_
 gutenberg_issued: '2024-05-13'
 gutenberg_type: Text
 identifiers:
